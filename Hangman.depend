@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1709633202 source:c:\users\admin\downloads\hangman\main.cpp
+	<iostream>
+	<ctime>
+	"graphicsHangman.h"
+
+1709633261 c:\users\admin\downloads\hangman\graphicshangman.h
+	<iostream>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	"defsHangman.h"
+	"logicHangman.h"
+
+1709608832 c:\users\admin\downloads\hangman\defshangman.h
+
+1709602863 c:\users\admin\downloads\hangman\logichangman.h
+	<iostream>
+
